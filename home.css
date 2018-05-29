@@ -1,0 +1,43 @@
+body{
+	background: whitesmoke;
+}
+
+#blue-text{
+	color:darkblue;
+	text-align: center;
+}
+
+#center{
+	text-align: center;
+}
+
+
+img{
+	width: 30%;
+	float: center;
+	margin: 1.66%;
+}
+
+#smaller-image{
+	width: 300px;
+	border-radius: 50%
+}
+
+#medium-image{
+	width:auto;
+	height:450px;
+}
+
+#scrollbox{
+	overflow: auto;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	height: 85px;
+	width: 100%;
+	border-left: 1px solid #ccc;
+	font: 16px/25px Georgia, Garamond, Serif;
+}
+
+#warning{
+	color: red;
+}
